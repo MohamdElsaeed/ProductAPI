@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/ProductAPI":{"type":null,"mount_options":["uid=1000","gid=1000"],"guestpath":"/home/vagrant/ProductAPI","hostpath":"/opt/lampp/htdocs/ProductAPI","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/opt/lampp/htdocs/ProductAPI","disabled":false,"__vagrantfile":true}}}
